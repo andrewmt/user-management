@@ -1,2 +1,2 @@
-# user-management
-User management implemented on NodeJS, ReactJS, ReactNative, Angular 2
+# user-management-react
+User management implemented on ReactJS. API implementation: https://github.com/andrewmt/users-node-mongo-docker
